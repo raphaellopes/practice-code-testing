@@ -13,7 +13,7 @@ The goal of this test is writting a code that consume the [SWAPI](https://swapi.
 2. you can write the solution using any library of your choice (React, Vue, Angular, etc) or in vanila JS
 3. this solution does not need any CSS to make the output nicer, the main goal is the code that consumes the API
 
-## what shoudl I do to start and finish
+## how shoud I do
 1. create a fork from this repository
 2. code your solution
 3. push and open a PR to this repository 
