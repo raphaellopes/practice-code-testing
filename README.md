@@ -1,4 +1,4 @@
-# practice-code-testing
+# practice code testing
 
 The goal of this test is writting a code that consume the [SWAPI](https://swapi.dev/). The requirements below:
 
