@@ -1,19 +1,19 @@
-# practice code testing
+# Practice Coding Test
 
-The goal of this test is writting a code that consume the [SWAPI](https://swapi.dev/). The requirements below:
+The objective of this task is to develop a code that retrieves data from the SWAPI (Star Wars API). The requirements are as follows:
+1. Retrieve and display a list of characters using the "/people" endpoint.
+2. Implement pagination to display characters from each individual page.
+3. Include two buttons to navigate between pages: a previous button and a next button.
+4. Disable the buttons when there is no additional data available through pagination.
 
-1. you should list all characters using the `/people` endpoint
-2. you should use the pagination system to show the list of characters from each indivudual page
-3. it should include at least two buttons, where we can navigate between pages (previous button and next button)
-4. the buttons should be disabled invidually when there is no way to get more data using the pagination
 
+## Requirements
+1. It is preferable to use JavaScript or TypeScript.
+2. You are free to choose any library for implementation (React, Vue, Angular, etc.) or use plain JavaScript.
+3. The focus of this task is on the code that interacts with the API; CSS styling is not necessary.
 
-## requirements
-1. it is preferable use javascript or typescript
-2. you can write the solution using any library of your choice (React, Vue, Angular, etc) or in vanila JS
-3. this solution does not need any CSS to make the output nicer, the main goal is the code that consumes the API
-
-## how shoud I do
-1. create a fork from this repository
-2. code your solution
-3. push and open a PR to this repository 
+## Steps to Follow
+1. Fork this repository to create your own copy.
+2. Develop your solution.
+3. Push your changes to your forked repository.
+4. Open a pull request (PR) to submit your solution to this repository.
