@@ -1,6 +1,6 @@
 # Practice Coding Test
 
-The objective of this task is to develop a code that retrieves data from the SWAPI (Star Wars API). The requirements are as follows:
+The objective of this task is to develop a code that retrieves data from the [SWAPI](https://swapi.dev/) (Star Wars API). The requirements are as follows:
 1. Retrieve and display a list of characters using the "/people" endpoint.
 2. Implement pagination to display characters from each individual page.
 3. Include two buttons to navigate between pages: a previous button and a next button.
